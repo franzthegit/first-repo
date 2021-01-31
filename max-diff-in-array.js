@@ -13,4 +13,4 @@ function solution(arr) {
   return maxDiff;
 }
 
-console.log(solution([4,6,2,2,6,6,1]));
+// console.log(solution([4,6,2,2,6,6,1]));
